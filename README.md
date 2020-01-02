@@ -1,2 +1,2 @@
 # SegmentationPhotometrique
-Segmentation photométrique d'image acquise par drone
+Segmentation photométrique d'images acquisent par drone
